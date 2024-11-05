@@ -6,16 +6,16 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 
 ---
 
-### Course Details
-- **Instructor**: Dr. Azad Rasul
-- **Platform**: Google Meet
-- **Duration**: November 20, 2024 - January 20, 2025
-- **Session Time**: Weekly, Wednesday, 3:00 pm to 5:00 pm (+3 GMT)
-- **Fee**: 200$
-- **Group Size**: Maximum of 15 students per session for optimal interaction.
-- **Certificate**: A certificate of completion will be provided to all students who finish the course.
-- **GitHub Repository**: Link to GitHub Repository: https://github.com/Azad77/AI4Geospatial
-- **Contact with Instructor**: Email: azad.rasul@soran.edu.iq
+### 📚Course Details
+- **👨‍🏫Instructor**: Dr. Azad Rasul
+- **💻Platform**: Google Meet
+- **📅Duration**: November 20, 2024 - January 20, 2025
+- **🕒Session Time**: Weekly, Wednesday, 3:00 pm to 5:00 pm (+3 GMT)
+- **💵Fee**: $200
+- **👥Group Size**: Maximum of 15 students per session for optimal interaction.
+- **🎓Certificate**: A certificate of completion will be provided to all students who finish the course.
+- **🔗GitHub Repository**: Link to GitHub Repository: https://github.com/Azad77/AI4Geospatial 
+- **📧Contact with Instructor**: Email: azad.rasul@soran.edu.iq
 
 ---
 
