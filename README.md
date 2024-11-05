@@ -13,6 +13,7 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 - **Session Time**: Weekly, Wednesday, 3:00 pm to 5:00 pm (+3 GMT)
 - **Fee**: 250$
 - **GitHub Repository**: Link to GitHub Repository: (https://github.com/Azad77/AI4Geospatial)
+- **Contact with Instructor**:Email: azad.rasul@soran.edu.iq
 
 ---
 
