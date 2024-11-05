@@ -12,7 +12,7 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 - **Duration**: November 20, 2024 - January 20, 2025
 - **Session Time**: Weekly, 3:00 pm to 5:00 pm (+3 GMT)
 - **Fee**: 250$
-- **GitHub Repository**: Link to GitHub Repository](https://github.com/Azad77/AI4Geospatial)
+- **GitHub Repository**: Link to GitHub Repository: (https://github.com/Azad77/AI4Geospatial)
 
 ---
 
