@@ -62,15 +62,14 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 ---
 
 ### Section 5: Advanced Applications in Geospatial Analysis
-- **Lecture 23**: Enhancing Crop Classification Accuracy with Google Earth Engine
-- **Lecture 24**: Air Quality Monitoring in India - A Python and ML Case Study (Parts 1-4)
-- **Lecture 25**: Advanced Machine Learning Techniques for Classifying Complex Geospatial Data
+- **Lecture 23**: Air Quality Monitoring in India - A Python and ML Case Study (Parts 1-4)
+- **Lecture 24**: Advanced Machine Learning Techniques for Classifying Complex Geospatial Data
 
 
 ---
 
 ### Section 6: Special Topics and Bonus Content
-- **Lecture 26**: Detecting and Counting Plants Using Computer Vision Techniques
+- **Lecture 25**: Detecting and Counting Plants Using Computer Vision Techniques
 
 ---
 
