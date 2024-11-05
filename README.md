@@ -68,7 +68,6 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 
 ### Section 6: Special Topics and Bonus Content
 - **Lecture 26**: Detecting and Counting Plants Using Computer Vision Techniques
-- **Lecture 27**: Bonus Resources for Mastering AI, Deep Learning, and ML in Geospatial Analysis
 
 ---
 
