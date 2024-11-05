@@ -14,7 +14,7 @@ Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This li
 - **Fee**: 200$
 - **Group Size**: Maximum of 15 students per session for optimal interaction.
 - **Certificate**: A certificate of completion will be provided to all students who finish the course.
-- **GitHub Repository**: Link to GitHub Repository: (https://github.com/Azad77/AI4Geospatial)
+- **GitHub Repository**: Link to GitHub Repository: https://github.com/Azad77/AI4Geospatial
 - **Contact with Instructor**: Email: azad.rasul@soran.edu.iq
 
 ---
