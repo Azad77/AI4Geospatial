@@ -102,7 +102,7 @@ This course is ideal for:
 
 ## **Course Description**
 
-Unlock the transformative potential of AI, Deep Learning, and Machine Learning in geospatial analysis. This course, designed for Python and R users, provides essential skills for solving real-world problems across fields like agriculture, environmental monitoring, and air quality analysis. 
+Unlock the transformative potential of AI, Deep Learning, and Machine Learning in geospatial analysis. This course, designed for Python  users, provides essential skills for solving real-world problems across fields like agriculture, environmental monitoring, and air quality analysis. 
 
 Beginning with foundational Python skills, you'll learn to manipulate, visualize, and analyze geospatial data. Key concepts in machine learning and deep learning are introduced, followed by applications tailored for spatial data. Practical projects include image classification for vegetation health, plant detection, and air quality monitoring using ML.
 
