@@ -109,6 +109,9 @@ Unlock the transformative potential of AI, Deep Learning, and Machine Learning i
 Beginning with foundational Python skills, you'll learn to manipulate, visualize, and analyze geospatial data. Key concepts in machine learning and deep learning are introduced, followed by applications tailored for spatial data. Practical projects include image classification for vegetation health, plant detection, and air quality monitoring using ML.
 
 By the course’s end, you’ll confidently preprocess geospatial data, build models, and interpret results to drive insights. Tailored for researchers, analysts, and developers, this course offers a structured path to mastering AI and ML for geospatial challenges. Join us on this journey and start making an impact with AI-driven geospatial analysis.
+
+---
+
 ## **One-on-One Course Option** ##
 Price: $1000 for personalized instruction
 Description: This option includes tailored lessons focusing on the student’s specific interests and projects in geospatial analysis and AI/ML. Students will receive dedicated support, personalized feedback, and the flexibility to schedule sessions according to their availability.
