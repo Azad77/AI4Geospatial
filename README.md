@@ -113,7 +113,7 @@ By the course’s end, you’ll confidently preprocess geospatial data, build mo
 ---
 
 ## **One-on-One Course Option** ##
-**Price**: $1000 for personalized instruction
-**Description**: This option includes tailored lessons focusing on the student’s specific interests and projects in geospatial analysis and AI/ML. Students will receive dedicated support, personalized feedback, and the flexibility to schedule sessions according to their availability.
+- **Price**: $1000 for personalized instruction
+- **Description**: This option includes tailored lessons focusing on the student’s specific interests and projects in geospatial analysis and AI/ML. Students will receive dedicated support, personalized feedback, and the flexibility to schedule sessions according to their availability.
 
-**Contact**: For more details and to discuss your learning goals, please contact the instructor at azad.rasul@soran.edu.iq.
+- **Contact**: For more details and to discuss your learning goals, please contact the instructor at azad.rasul@soran.edu.iq.
