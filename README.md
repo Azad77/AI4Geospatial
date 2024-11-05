@@ -1,4 +1,4 @@
-# Harnessing AI and Machine Learning for Geospatial Analysis
+# 🌍 Harnessing AI and Machine Learning for Geospatial Analysis 🌍
 
 ## **Course Overview**
 Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This live course is designed for professionals, students, and enthusiasts eager to apply AI and ML to solve geospatial data challenges. With live sessions, hands-on labs, and practical projects, you’ll build skills that can be applied to real-world scenarios in agriculture, environmental monitoring, and more.
