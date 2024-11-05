@@ -1,16 +1,18 @@
 # Harnessing AI and Machine Learning for Geospatial Analysis
 
-Welcome to the "Harnessing AI and Machine Learning for Geospatial Analysis" course! This comprehensive course provides live content aimed at equipping learners with essential skills in applying AI and ML to geospatial data analysis.
+## **Course Overview**
+Welcome to "Harnessing AI and Machine Learning for Geospatial Analysis"! This live course is designed for professionals, students, and enthusiasts eager to apply AI and ML to solve geospatial data challenges. With live sessions, hands-on labs, and practical projects, you’ll build skills that can be applied to real-world scenarios in agriculture, environmental monitoring, and more.
+
 
 ---
 
 ### Course Details
-- **Instructor**: [Dr. Azad Rasul]
-- **Platform**: [Google Meet]
-- **Duration**: [20-11-2024 to 20-01-2025]
-- **Session Time**: [Weekly, 3:00 am to 5:00 pm (+3)]
-- **Fee**: [250$]
-- **GitHub Repository**: [[Link to GitHub Repository](https://github.com/Azad77/AI4Geospatial)]
+- **Instructor**: Dr. Azad Rasul
+- **Platform**: Google Meet
+- **Duration**: November 20, 2024 - January 20, 2025
+- **Session Time**: Weekly, 3:00 pm to 5:00 pm (+3 GMT)
+- **Fee**: 250$
+- **GitHub Repository**: Link to GitHub Repository](https://github.com/Azad77/AI4Geospatial)
 
 ---
 
@@ -70,15 +72,39 @@ Welcome to the "Harnessing AI and Machine Learning for Geospatial Analysis" cour
 
 ---
 
-## Key Course Features
-- **Practical Projects**: Real-world geospatial analysis and ML projects
-- **Hands-on Labs**: Coding exercises and assignments
-- **Interactive Quizzes**: Reinforce learning with targeted quizzes
-- **Resources**: GitHub repository and additional reading materials
+## **Key Learning Objectives**
 
-## Course Objectives
-By the end of this course, learners will be able to:
-1. Understand the foundational concepts of AI and ML for geospatial data.
-2. Use Python for effective geospatial analysis.
-3. Apply machine learning techniques to real-world geospatial datasets.
-4. Create visualizations and perform advanced analyses of spatial data.
+By the end of this course, students will be able to:
+1. Grasp foundational AI and ML concepts for geospatial data analysis.
+2. Utilize Python to manipulate and visualize geospatial data effectively.
+3. Apply machine learning algorithms to spatial datasets.
+4. Develop and interpret models to derive actionable insights from geospatial data.
+5. Use deep learning techniques to analyze complex geospatial datasets.
+
+---
+
+## **Requirements and Prerequisites**
+- **Basic Python knowledge** is recommended.
+- Familiarity with **geospatial data** concepts is helpful but not required.
+- Access to a **computer with internet** for running Python tools and attending live sessions.
+- **No prior experience** with machine learning or AI required – beginners are welcome!
+
+---
+
+## **Intended Learners**
+
+This course is ideal for:
+- **Data scientists** and **analysts** looking to specialize in geospatial AI applications.
+- **Researchers** and **students** interested in advancing their skills in AI for environmental monitoring and spatial analysis.
+- **Professionals in agriculture, climate science, and urban planning** wanting to use data-driven insights for better decision-making.
+- Anyone passionate about learning **AI-driven solutions** to tackle geospatial data challenges.
+
+---
+
+## **Course Description**
+
+Unlock the transformative potential of AI, Deep Learning, and Machine Learning in geospatial analysis. This course, designed for Python and R users, provides essential skills for solving real-world problems across fields like agriculture, environmental monitoring, and air quality analysis. 
+
+Beginning with foundational Python skills, you'll learn to manipulate, visualize, and analyze geospatial data. Key concepts in machine learning and deep learning are introduced, followed by applications tailored for spatial data. Practical projects include image classification for vegetation health, plant detection, and air quality monitoring using ML.
+
+By the course’s end, you’ll confidently preprocess geospatial data, build models, and interpret results to drive insights. Tailored for researchers, analysts, and developers, this course offers a structured path to mastering AI and ML for geospatial challenges. Join us on this journey and start making an impact with AI-driven geospatial analysis.
